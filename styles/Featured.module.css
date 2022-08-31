@@ -3,6 +3,7 @@
     background-color: #d1411e;
     overflow: hidden;
     position: relative;
+    padding: 5px;
   }
   
   .arrowContainer {
